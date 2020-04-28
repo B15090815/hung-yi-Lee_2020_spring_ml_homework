@@ -3,7 +3,7 @@
  * @version: 
  * @Author: ErCHen
  * @Date: 2020-04-25 17:52:20
- * @LastEditTime: 2020-04-28 15:21:39
+ * @LastEditTime: 2020-04-28 20:01:27
  -->
 
 # 2020春季李宏毅机器学习课后作业
@@ -14,7 +14,7 @@
 
 ## [二、线性回归（作业一）](https://github.com/B15090815/hung-yi-Lee_2020_spring_ml_homework/tree/master/hw_1)
 
-题目要求根据前9个小时的空气质量观测数据，预测第10个小时的PM2.5的值。详细题目描述及要求，点击[Kaggle链接](https://www.kaggle.com/c/ml2020spring-hw1/)获取。
+题目要求根据前9个小时的空气质量观测数据，预测第10个小时的PM2.5的值。详细题目描述及要求，点击[Kaggle链接](https://www.kaggle.com/c/ml2020spring-hw1/)获取。数据百度云盘下载[链接](https://pan.baidu.com/s/1wSRW7PURZ3DIn0r97t3qXA)，提取码：zxn0。
 
 题目所给的数据集记录了从2014年1月到12月，每月前20天，每天24个小时18个空气质量指标的数值。具体数据描述如下图所示：
 
