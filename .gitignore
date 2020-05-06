@@ -2,3 +2,4 @@ data/
 *.zip
 .ipynb_checkpoints/
 __pycache__/
+deep_net.ipynb
