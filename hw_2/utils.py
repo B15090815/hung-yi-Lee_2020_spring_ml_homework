@@ -3,12 +3,13 @@
 @version: 
 @Author: ErCHen
 @Date: 2020-05-04 13:28:41
-@LastEditTime: 2020-05-04 13:30:56
+@LastEditTime: 2020-05-06 17:12:37
 '''
 import numpy as np
 
 def sigmoid(z):
-    return 1.0 / (1.0 + np.exp(-z))
+    s = 1.0 / (1.0 + np.exp(-z))
+    return np.clip(s, 1e-8, 1-1e-8)
 
 def normalization(data):
     '''
