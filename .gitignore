@@ -3,3 +3,9 @@ data/
 .ipynb_checkpoints/
 __pycache__/
 deep_net.ipynb
+hw_3/*.sh
+hw_3/*.csv
+hw_3/log/*
+hw_3/model/*
+*.xls
+*.xlsx
